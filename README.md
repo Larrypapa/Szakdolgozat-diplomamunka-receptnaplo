@@ -23,7 +23,3 @@ a kalória-, fehérje-, szénhidrát- és zsírtartalmat.
 - [ ] Receptlista, receptoldal, megosztás
 - [ ] Keresés és szűrés (név, kalória, fehérje)
 
-
-## Adatforrások
-
-A tápértékadatok forrása és licence ide kerül (pl. USDA FoodData Central).
