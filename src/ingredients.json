@@ -1,0 +1,12 @@
+[
+  { "id": "01123", "nev": "Tojás (nyers, egész)", "kaloria": 143, "feherje": 12.56, "szenhidrat": 0.72, "zsir": 9.51 },
+  { "id": "01001", "nev": "Vaj (sózott)", "kaloria": 717, "feherje": 0.85, "szenhidrat": 0.06, "zsir": 81.11 },
+  { "id": "18069", "nev": "Búzakenyér (fehér)", "kaloria": 266, "feherje": 8.85, "szenhidrat": 50.61, "zsir": 3.33 },
+  { "id": "10123", "nev": "Sertés szalonna (nyers)", "kaloria": 417, "feherje": 11.60, "szenhidrat": 1.43, "zsir": 39.44 },
+  { "id": "11282", "nev": "Hagyma (vörös, nyers)", "kaloria": 40, "feherje": 1.10, "szenhidrat": 9.34, "zsir": 0.10 },
+  { "id": "11362", "nev": "Burgonya (nyers, hámozott)", "kaloria": 77, "feherje": 2.05, "szenhidrat": 17.49, "zsir": 0.09 },
+  { "id": "07073", "nev": "Kolbász (sertés)", "kaloria": 339, "feherje": 14.10, "szenhidrat": 1.30, "zsir": 30.20 },
+  { "id": "02047", "nev": "Só (asztali)", "kaloria": 0, "feherje": 0.0, "szenhidrat": 0.0, "zsir": 0.0 },
+  { "id": "11529", "nev": "Paradicsom (nyers)", "kaloria": 18, "feherje": 0.88, "szenhidrat": 3.89, "zsir": 0.20 },
+  { "id": "02030", "nev": "Feketebors (őrölt)", "kaloria": 251, "feherje": 10.39, "szenhidrat": null, "zsir": null }
+]
