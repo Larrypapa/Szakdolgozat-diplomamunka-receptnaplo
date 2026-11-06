@@ -32,3 +32,10 @@ Számítási elvek: Teljes recept és adagszám szerinti, gramm alapú lineáris
 Kritikus adatkezelési döntés: A hiányzó (null) tápértékkel rendelkező alapanyagok "fertőzik" a végeredményt. Ha egy hozzávalóból hiányzik a zsír adat, a teljes recept zsírtartalma is null (hiányos) lesz. Ez a szigorú kezelés védi az étkezésnapló napi összesítésének megbízhatóságát, elkerülve a hamis részösszegeket.
 
 Validáció: A negatív bemenetekre és nullával való osztásra a rendszer egyértelmű hibát dob. Egy teszt recept ("Vajas rántotta") gépi és kézi számításának eredménye megegyezett.
+
+
+## [2026. November] – MVP2: Frontend architektúra, Élő Kalkulátor és Receptlista
+
+* **Vue 3 Komponensstruktúra:** Bevezetésre került a `ReceptOsszeallito.vue` és a `NaploNezet.vue`, valamint az Axios alapú API kommunikációs réteg (`api.ts`).
+* **Élő Makrókalkulátor:** Interaktív komponens, amely valós időben kalkulálja a felvett hozzávalók tömege alapján a makrókat, figyelmeztetve a hiányos tápértékű alapanyagokra.
+* **Listázás és Navigáció:** A mentett receptek dinamikus megjelenítése kártyás nézetben az étkezésnapló felületén.
